@@ -8,3 +8,7 @@ extras.json
 publish.sh
 styles.json
 docs/
+config.json
+enc-state.json
+site-entry.json
+*.bak*
